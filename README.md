@@ -1,1 +1,2 @@
 # netflix-data-analysis
+The Objective of this project is to perform an Exploratory Data Analysis on the Netflix dataset to identify patterns and trends across different dimensions such as content type (Movies vs. TV Shows), geographic distribution of content, release year trends, audience ratings, duration analysis, and genre popularity. The goal was to derive meaningful insights that could help in understanding Netflix’s content strategy and areas of potential growth.
